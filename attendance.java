@@ -6,6 +6,7 @@ compileSdkVersion 26
 defaultConfig {
 applicationId "com.example.androidattendancesystem"
 minSdkVersion 14
+minSdkVersion 15
 targetSdkVersion 26
 }
 
